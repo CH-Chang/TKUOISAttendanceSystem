@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MessageDialog</class>
+ <widget class="QDialog" name="MessageDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>150</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>提示訊息</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QDialog{background-color:white;}</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

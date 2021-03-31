@@ -1,0 +1,2 @@
+window = None
+mutex = None
